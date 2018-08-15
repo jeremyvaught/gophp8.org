@@ -1,0 +1,10 @@
+{
+    "name": "jeremyvaught/php8",
+    "authors": [
+        {
+            "name": "Jeremy Vaught",
+            "email": "jeremy@jeremyvaught.com"
+        }
+    ],
+    "require": {}
+}
